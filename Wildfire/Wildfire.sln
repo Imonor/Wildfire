@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wildfire", "Wildfire.csproj", "{D8EC3EB9-1D2A-4233-A159-CB384758B96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWildfire", "..\UnitTestWildfire\UnitTestWildfire.csproj", "{78F05E05-BC81-4889-88BC-5F8A8E438582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8EC3EB9-1D2A-4233-A159-CB384758B96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EC3EB9-1D2A-4233-A159-CB384758B96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EC3EB9-1D2A-4233-A159-CB384758B96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EC3EB9-1D2A-4233-A159-CB384758B96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F05E05-BC81-4889-88BC-5F8A8E438582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F05E05-BC81-4889-88BC-5F8A8E438582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F05E05-BC81-4889-88BC-5F8A8E438582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F05E05-BC81-4889-88BC-5F8A8E438582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26C47B20-34A7-4767-8EAE-C8288D42E581}
+	EndGlobalSection
+EndGlobal
